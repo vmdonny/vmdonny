@@ -1,7 +1,7 @@
-- 👋 Hello! My name is Donovan Martell, a 19 y/o student at Cascades Job Corps.
+- 👋 Hello! My name is Donovan Martell, a 20 y/o student at Pierce Community College.
 - 👀 I am heavily interested in physics and computer science. I have written some scripts in my time here, and I'll be posting a few.
-- 🌱 I’m currently finishing my HSD and Google's IT Automation with Python. Acquired GED in October, Comptia A+ in January, and Linux+ in July.
-- 💞️ Collaboration would be wonderful, I'm always down for learning/teaching opportunities. 
+- 🌱 I have numerous IT Certificates from Cascades Job Corps and am currently studying Physics!
+- 💞️ Collaboration would be wonderful, I'm always down for learning/teaching opportunities.
 - 📫 You can reach out to me at donovanvmartell@gmail.com for any reason!
 
 <!---
